@@ -1,4 +1,4 @@
-module github.com/ForbiddenR/micros-proto/payment
+module github.com/ForbiddenR/micros-proto/golang/payment
 
 go 1.21.5
 
