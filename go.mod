@@ -1,3 +1,3 @@
-module github.com/ForbiddenR/micros-proto/golang/order
+module github.com/ForbiddenR/micros-proto
 
 go 1.21.5
