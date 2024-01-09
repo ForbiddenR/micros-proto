@@ -1,4 +1,4 @@
-module github.com/ForbiddenR/micros-proto/git tag -a golang/order/v1.2.3 -m "golang/order/v1.2.3"
+module github.com/ForbiddenR/micros-proto/payment
 
 go 1.21.5
 
